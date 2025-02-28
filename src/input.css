@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme{
+    --font-tanha: "tanha", "sans-serif"
+}
+
+@font-face {
+    font-family: 'tanha';
+    src: url('../font/Tanha-FD.woff2');
+}

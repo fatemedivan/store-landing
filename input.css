@@ -6,5 +6,5 @@
 
 @font-face {
     font-family: 'tanha';
-    src: url('./font/Tanha-FD.woff2');
+    src: url('./font/Tanha-FD.woff2') format('woff2');
 }
